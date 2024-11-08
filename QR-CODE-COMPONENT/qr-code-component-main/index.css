@@ -7,11 +7,12 @@
 
 .preview-card {
     background-color: hsl(0, 0%, 100%);
+    padding: 20px;
+    width: 400px;
 }
 
 .preview-card > .qr-code > img {
-    width: 100px;
-    height: 100px;
+    width: 100%;
 }
 
 .preview-card > .qr-code > .text > .first-text {
