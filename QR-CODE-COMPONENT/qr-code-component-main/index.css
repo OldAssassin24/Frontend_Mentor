@@ -12,6 +12,7 @@ body {
     background-color: hsl(0, 0%, 100%);
     padding: 20px;
     width: 400px;
+    margin: 0 auto;
 }
 
 .preview-card > .qr-code > img {
