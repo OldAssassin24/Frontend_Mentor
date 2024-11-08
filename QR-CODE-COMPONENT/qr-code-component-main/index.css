@@ -30,13 +30,13 @@ body {
 
 .preview-card > .qr-code > .text > .first-text {
     color: hsl(218, 44%, 22%);
-    font-family: Outfit;
+    font-family: "Outfit", Verdana;
     font-weight: 700;
 
 }
 
 .preview-card > .qr-code > .text > .last-text {
     color: hsl(218, 44%, 22%);
-    font-family: Outfit;
+    font-family: "Outfit", Verdana;
     font-weight: 400;
 }
