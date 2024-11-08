@@ -16,6 +16,7 @@ body {
     position: absolute;
     top: 50%;
     left: 50%;
+    margin: -220px 0 0 -273px;
 }
 
 .preview-card > .qr-code > img {
