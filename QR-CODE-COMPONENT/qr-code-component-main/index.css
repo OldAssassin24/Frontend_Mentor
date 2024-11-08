@@ -1,3 +1,9 @@
+@font-face {
+    font-family: Outfit;
+    src: url(https://fonts.google.com/specimen/Outfit);
+    font-weight: 400, 700;
+}
+
 body {
     margin: 0;
     background-color: hsl(212, 45%, 89%);
@@ -15,16 +21,28 @@ body {
     background-color: hsl(0, 0%, 100%);
     padding: 20px;
     width: 400px;
+    border-radius: 20px;
 }
 
 .preview-card > .qr-code > img {
     width: 100%;
+    border-radius: 20px;
+}
+
+.preview-card > .qr-code > .text {
+    width: fit-content;
+    font-size: 15px;
 }
 
 .preview-card > .qr-code > .text > .first-text {
     color: hsl(218, 44%, 22%);
+    font-family: "Outfit";
+    font-weight: 700;
+
 }
 
 .preview-card > .qr-code > .text > .last-text {
     color: hsl(218, 44%, 22%);
+    font-family: "Outfit";
+    font-weight: 400;
 }
