@@ -1,7 +1,7 @@
 @font-face {
     font-family: Outfit;
     src: url(https://fonts.google.com/specimen/Outfit);
-    font-weight: 400, 700;
+    font-weight: 400 700;
 }
 
 body {
@@ -36,13 +36,13 @@ body {
 
 .preview-card > .qr-code > .text > .first-text {
     color: hsl(218, 44%, 22%);
-    font-family: "Outfit";
+    font-family: Outfit;
     font-weight: 700;
 
 }
 
 .preview-card > .qr-code > .text > .last-text {
     color: hsl(218, 44%, 22%);
-    font-family: "Outfit";
+    font-family: Outfit;
     font-weight: 400;
 }
