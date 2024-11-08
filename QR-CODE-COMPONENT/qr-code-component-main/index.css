@@ -6,13 +6,16 @@ body {
 .container {
     width: 100%;
     height: 100vh;
+    position: relative;
 }
 
 .preview-card {
     background-color: hsl(0, 0%, 100%);
     padding: 20px;
     width: 400px;
-    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
 }
 
 .preview-card > .qr-code > img {
