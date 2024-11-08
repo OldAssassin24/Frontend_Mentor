@@ -1,10 +1,6 @@
-.container {
+body {
     margin: 0;
-    width: 100vw;
-    height: 100vh;
     background-color: hsl(212, 45%, 89%);
-    justify-content: center;
-    align-content: center;
 }
 
 .preview-card {
