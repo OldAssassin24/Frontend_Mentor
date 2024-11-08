@@ -1,7 +1,23 @@
 .container {
     margin: 0;
+    background-color: hsl(212, 45%, 89%);
     justify-content: center;
     align-content: center;
-    width: 100vw;
-    height: 100vh;
+}
+
+.preview-card {
+    background-color: hsl(0, 0%, 100%);
+}
+
+.preview-card > .qr-code > img {
+    width: 100px;
+    height: 100px;
+}
+
+.preview-card > .qr-code > .text > .first-text {
+    color: hsl(218, 44%, 22%);
+}
+
+.preview-card > .qr-code > .text > .last-text {
+    color: hsl(218, 44%, 22%);
 }
