@@ -1,10 +1,10 @@
 body {
     margin: 0 auto;
+    background-color: hsl(212, 45%, 89%);
 }
 
 .container {
     height: 100vh;
-    background-color: hsl(212, 45%, 89%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -38,4 +38,24 @@ body {
 .qr-card > .text-section > p:last-child {
     color: hsl(216, 15%, 48%);
     font-weight: 400;
+}
+
+.attribution {
+    font-size: 15px;
+    font-family: Outfit, sans-serif;
+    text-align: right;
+    margin-top: -75px;
+}
+
+.attribution a {
+    text-decoration: none;
+    color: hsl(216, 15%, 48%);
+}
+
+.attribution p {
+    padding-right: 10px;
+}
+
+.attribution p:first-child {
+    margin-bottom: -10px;
 }
