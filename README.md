@@ -1,5 +1,1 @@
-# Frontend_Mentor
-A project for my portfolio
-
-#UPDATE
-Just some random text
+This contains all my progress as I learn on https://www.frontendmentor.io
