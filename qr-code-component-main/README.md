@@ -22,8 +22,8 @@ This shows my previews and experience while building the project.
 
 ### Screenshot
 
-- ![Screenshot Desktop-view](./screenshots/screenshot-desktop.jpeg)
-- ![Screenshot Mobile-view](./screenshots/screenshot-mobile.png)
+- [Screenshot Desktop-view](./screenshots/screenshot-desktop.jpeg)
+- [Screenshot Mobile-view](./screenshots/screenshot-mobile.png)
 
 ### Links
 
