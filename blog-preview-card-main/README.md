@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://your-solution-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/blog-preview-card-2Ev8Hr3fz6)
 - Live Site URL: [Live Site](https://html-preview.github.io/?url=https://github.com/OldAssassin24/Frontend_Mentor/blob/main/blog-preview-card-main/index.html)
 
 ## My process
