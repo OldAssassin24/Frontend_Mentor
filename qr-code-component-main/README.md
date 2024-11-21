@@ -27,7 +27,7 @@ This shows my previews and experience while building the project.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My Solution]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/qr-code-component-solution-LahcvoUnOA))
 - Live Site URL: [HTML Preview](https://html-preview.github.io/?url=https://github.com/OldAssassin24/Frontend_Mentor/blob/main/QR-CODE-COMPONENT/qr-code-component-main/index.html)
 
 I couldn't create an account on Vercel and Netlify for some reason 🤷‍♀️😫, so I just used this one.
